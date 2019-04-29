@@ -15,7 +15,8 @@ namespace TestSibur
             {
                 Console.WriteLine(employees.ToString());
             }
-            Console.WriteLine("Ошибка при чтении файла");
+            else
+                Console.WriteLine("Ошибка при чтении файла");
         }
     }
 }
