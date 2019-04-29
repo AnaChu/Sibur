@@ -1,0 +1,7 @@
+c:\users\ana\source\repos\TestSibur\TestSibur\bin\Debug\TestSibur.exe.config
+c:\users\ana\source\repos\TestSibur\TestSibur\bin\Debug\TestSibur.exe
+c:\users\ana\source\repos\TestSibur\TestSibur\bin\Debug\TestSibur.pdb
+c:\users\ana\source\repos\TestSibur\TestSibur\obj\Debug\TestSibur.csprojAssemblyReference.cache
+c:\users\ana\source\repos\TestSibur\TestSibur\obj\Debug\TestSibur.csproj.CoreCompileInputs.cache
+c:\users\ana\source\repos\TestSibur\TestSibur\obj\Debug\TestSibur.exe
+c:\users\ana\source\repos\TestSibur\TestSibur\obj\Debug\TestSibur.pdb

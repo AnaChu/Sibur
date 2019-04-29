@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Employees>
+    <Employee>
+        <FirstName>Иван</FirstName>
+        <LastName>Иванов</LastName>
+        <MiddleName>Иванович</MiddleName>
+        <Title>Аналитик</Title>
+    </Employee>
+    <Employee>
+        <FirstName>Владимир</FirstName>
+        <LastName>Клименко</LastName>
+        <MiddleName>Сергеевич</MiddleName>
+        <Title>Тех. писатель</Title>
+    </Employee>
+</Employees>
